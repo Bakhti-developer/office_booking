@@ -19,7 +19,7 @@ This is a Django-based API for managing office bookings, rooms, and related func
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/office-booking.git
+    git clone https://github.com/Bakhti-developer/office_booking.git
     cd office-booking
     ```
 
