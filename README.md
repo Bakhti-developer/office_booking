@@ -20,7 +20,7 @@ This is a Django-based API for managing office bookings, rooms, and related func
 
     ```bash
     git clone https://github.com/Bakhti-developer/office_booking.git
-    cd office-booking
+    cd office_booking
     ```
 
 3. **Install the required dependencies:**
@@ -35,6 +35,12 @@ This is a Django-based API for managing office bookings, rooms, and related func
 
     ```bash
     python manage.py migrate
+    ```
+
+4. **Collect static files:**
+
+    ```bash
+    python manage.py collectstatic
     ```
 
 5. **Run the development server:**
