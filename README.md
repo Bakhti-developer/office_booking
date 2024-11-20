@@ -23,13 +23,13 @@ This is a Django-based API for managing office bookings, rooms, and related func
     cd office_booking
     ```
 
-3. **Install the required dependencies:**
+2. **Install the required dependencies:**
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. **Run database migrations:**
+3. **Run database migrations:**
 
     This will set up the SQLite database for development (you can switch to a different database if needed):
 
